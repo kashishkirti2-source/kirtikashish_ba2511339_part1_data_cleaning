@@ -117,11 +117,11 @@ Sorting and filtering were applied to selected pivot tables for better analysis.
 # Key Business Insights
 
 * South region generated the highest overall sales.
-* Technology and Furniture contributed significantly to revenue.
+* Technology and Furniture categories contributed significantly to overall sales.
 * Standard Class was the most frequently used shipping mode.
-* Average profit margin remained close to 30% across all customer segments.
-* Failed and Refunded orders were relatively low compared to completed transactions.
-* Monthly sales varied throughout the year, with stronger performance in selected months.
+* Average profit margin remained close to 30% across customer segments.
+* Failed and Refunded orders represented a smaller share of total transactions.
+* Monthly sales showed variation across different months.
 
 ---
 
@@ -145,14 +145,12 @@ Sorting and filtering were applied to selected pivot tables for better analysis.
 
 # Screenshots Included
 
-The repository includes screenshots demonstrating:
+The repository includes the following screenshots as required:
 
-* Business Rule implementation
-* Cleaned Dataset
-* Calculated Columns
-* Data Quality Report
-* Pivot Tables
-* GitHub Repository Structure
+* **raw_data_preview.png** – Raw dataset before cleaning
+* **cleaned_data_preview.png** – Cleaned dataset with calculated columns
+* **pivot_summary_1.png** – Sales & Profit by Region pivot summary
+* **pivot_summary_2.png** – Monthly Sales Trend pivot summary
 
 ---
 
